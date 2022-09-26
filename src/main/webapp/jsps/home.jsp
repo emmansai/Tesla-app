@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
                 Landmark Technology, 
-		Toronto, Ontario, Canada
+		Toronto, Ontario, China
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
 		<br>
